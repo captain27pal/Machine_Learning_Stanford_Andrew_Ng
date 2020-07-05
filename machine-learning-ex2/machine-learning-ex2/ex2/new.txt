@@ -1,0 +1,5 @@
+fucntion [min,avg]=mynewfunc(var)
+	min=min(var);
+	avg=mean(var);
+	end;
+endfunction;
